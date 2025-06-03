@@ -2,7 +2,7 @@
 
 Este projeto é uma interface simples de um sistema de e-commerce desenvolvida em **React** utilizando **Vite** como empacotador e ferramenta de desenvolvimento. A aplicação consome dados de uma **API REST criada com Flask**.
 
-*Este projeto foi desenvolvido com fins de aprendizado e como demonstração prática de interesse por desenvolvimento frontend com React.*
+*Este projeto foi desenvolvido com fins de aprendizado.*
 
 ## Tecnologias Utilizadas
 
